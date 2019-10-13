@@ -30,7 +30,7 @@ In which sequence would you execute the following statements in order to establi
 ?: Question 2 
 
 
-Following is a preview of the `cutomers` table: 
+Following is a preview of the `customers` table: 
 
 |   user_id | city      | state   |
 |-----------|-----------|---------|
